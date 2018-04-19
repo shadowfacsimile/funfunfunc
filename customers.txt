@@ -1,0 +1,6 @@
+Turin Turambar	Sheet Metal	10	20
+Turin Turambar	Cast Iron	11	21
+Mithrandir	Spikes	12	22
+Mithrandir	Tourniquets	13	23
+Mithrandir	Syrups	14	24
+Glaurung	Derp Sauce	15	25
